@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Craig Kaufman
+- 👋 Hi, I’m Craig Kaufman.
 - 👀 I’m interested in front end webapp developement, primarily HTML, CSS, and JavaScript.
-- 🌱 I also have experience using tailwinds and sveltekit.
+- 🌱 I've begun study of React.js and am currently working on a JavaScript tutorial site created entirely with React.js.
 - 💞️ I’m looking to collaborate on any project requiring layout, styling, and functionality.
 - 📫 How to reach me ... cdk11235@gmail.com
 - www.virtualepoch.com
