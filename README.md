@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Craig Kaufman.
-- 👀 I’m interested in front end webapp developement —primarily HTML, CSS, JavaScript, and Reactjs.
-- 🌱 I've now begun creating projects using the Java programming language.
+- 👀 I’m interested in front-end web app developement —primarily HTML, CSS, JavaScript, React.js, Next.js, and Three.js.
+- My new passion is creating 3D web experiences.
+- 🌱 I've created a few projects using the Java programming language.
 - 💞️ I’m looking to collaborate on any project requiring layout, styling, and functionality.
 - 📫 How to reach me ... cdk11235@gmail.com
 - www.virtualepoch.com
